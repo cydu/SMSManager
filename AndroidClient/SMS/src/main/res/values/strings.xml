@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="sms_text">sms_text</string>
+    <string name="number">number</string>
+    <string name="send">send</string>
+    <string name="auth">auth</string>
+    <string name="sso">sso</string>
+</resources>

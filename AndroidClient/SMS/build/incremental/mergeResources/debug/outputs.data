@@ -1,0 +1,14 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1370601273000 342 0ea8934a4834effd17751ed74bf7b2a1b0fc1ae5 /Users/cydu/AndroidStudioProjects/SMSProject/SMS/build/res/all/debug/values-large/values.xml
+1370601273000 2701 8a11b298e0eb7fec77bb5c24700812480c4df99f /Users/cydu/AndroidStudioProjects/SMSProject/SMS/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1370601273000 4300 307ea834f1e0bd7fcd9ae45aeff6a921771b6d8b /Users/cydu/AndroidStudioProjects/SMSProject/SMS/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1370623988000 1671 aba3b21858f8e9a1eb35d622ff9257cbbc2f6a0d /Users/cydu/AndroidStudioProjects/SMSProject/SMS/build/res/all/debug/values/values.xml
+1370601273000 220 ce5358ff5014a2e66487752e21ad707491010e89 /Users/cydu/AndroidStudioProjects/SMSProject/SMS/build/res/all/debug/menu/login.xml
+1370601273000 1921 9e7803288af2cd20bf53a0abce42ef1859e424aa /Users/cydu/AndroidStudioProjects/SMSProject/SMS/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1370601273000 1181 9c1df0288e81d5a705a5e7f14284cfe7985d2a37 /Users/cydu/AndroidStudioProjects/SMSProject/SMS/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1370626024000 1419 21ac584b930811b032359599ff061c9eccf5ea48 /Users/cydu/AndroidStudioProjects/SMSProject/SMS/build/res/all/debug/layout/activity_main.xml
+1370601273000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/cydu/AndroidStudioProjects/SMSProject/SMS/build/res/all/debug/values-v14/values.xml
+1370601273000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/cydu/AndroidStudioProjects/SMSProject/SMS/build/res/all/debug/values-v11/values.xml
+1370623987000 3536 15eb0f3c0187aa9051e697705141c349ac708fcf /Users/cydu/AndroidStudioProjects/SMSProject/SMS/build/res/all/debug/layout/activity_login.xml
